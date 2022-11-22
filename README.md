@@ -54,6 +54,20 @@ O projeto tem como propósito criar uma aplicação web onde será possível cri
   - `Typescript`
   - `Axios`
   - `tailwindcss`
+- Mobile
+  - `ReactNative`
+    -`react-native-country-flag`
+    -`react-native-safe-area-context`
+    -`react-native-screens`
+    -`react-native-svg` e `react-native-svg-transformer`
+  - `Typescript`
+  - `phosphor-react-native`
+  - `Native-base`
+  - `Expo`
+  - `Axios`
+  - `DayJS`
+  - `country-list`
+
 
 
 ## Instalação
@@ -82,6 +96,16 @@ O projeto tem como propósito criar uma aplicação web onde será possível cri
 # Executando o projeto no ambiente de desenvolvimento
   npm run dev
 ```
+
+### Mobile
+```bash
+# Acesse a pasta do projeto pelo terminal (web)
+# Faça a instalação das depêndencias
+  npm i
+# Executando o projeto no ambiente de desenvolvimento
+  npx expo start
+```
+
 
 ## ✔️ Autores
 
